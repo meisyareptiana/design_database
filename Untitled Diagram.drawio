@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T02:25:28.980Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="qHCmDe8rb-lkzmtN5ZBR" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-26T06:33:48.191Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Kc8SJ2ne_AFCw8KVca2E" version="24.4.4" type="github">
   <diagram name="Page-1" id="o6oi2OrHOSItRVp3ogaU">
     <mxGraphModel dx="1900" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="uZAOjGnCxLmBIv0kc-p3-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="V0DoNAK7S6Uz_CBj2NoQ-23" target="V0DoNAK7S6Uz_CBj2NoQ-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V0DoNAK7S6Uz_CBj2NoQ-23" value="Evaluasi model dengan data uji" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="V0DoNAK7S6Uz_CBj2NoQ-23" value="Pengujian model dengan data uji" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-340" y="420" width="124" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uZAOjGnCxLmBIv0kc-p3-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="V0DoNAK7S6Uz_CBj2NoQ-25" edge="1">

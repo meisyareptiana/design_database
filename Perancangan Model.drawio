@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T04:39:41.072Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="-niYt77wYukCNVaWOtm4" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-10T04:41:26.359Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="diCk7Uvu7AR3LwlcRIrV" version="24.6.4" type="github">
   <diagram name="Page-1" id="GwG6b0UsznqhS38lxQlB">
     <mxGraphModel dx="3200" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="-778" y="20" width="110" height="63" as="geometry" />
         </mxCell>
         <mxCell id="w9pgXgJho9YlBxgVF055-15" value="Selesai" style="fixedSize=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-403" y="559" width="110" height="63" as="geometry" />
+          <mxGeometry x="-403" y="610" width="110" height="63" as="geometry" />
         </mxCell>
         <mxCell id="w9pgXgJho9YlBxgVF055-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w9pgXgJho9YlBxgVF055-16" target="w9pgXgJho9YlBxgVF055-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -65,19 +65,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w9pgXgJho9YlBxgVF055-42" value="Mendefinisikan Hyperparameter&amp;nbsp;&lt;div&gt;(training arguments)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-408" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="-407" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Az39sExRTAkoTB0O-FFJ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w9pgXgJho9YlBxgVF055-44" target="w9pgXgJho9YlBxgVF055-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w9pgXgJho9YlBxgVF055-44" value="Pelatihan Model dengan Data Training" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-408" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="-408" y="237" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Az39sExRTAkoTB0O-FFJ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w9pgXgJho9YlBxgVF055-47" target="Az39sExRTAkoTB0O-FFJ-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w9pgXgJho9YlBxgVF055-47" value="Evalusi Model dengan Data Testing" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-408" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="-408" y="366" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w9pgXgJho9YlBxgVF055-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="w9pgXgJho9YlBxgVF055-57" target="w9pgXgJho9YlBxgVF055-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -92,7 +92,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Az39sExRTAkoTB0O-FFJ-3" value="Hasil" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-408" y="445" width="120" height="60" as="geometry" />
+          <mxGeometry x="-408" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

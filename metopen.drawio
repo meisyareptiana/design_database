@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-09T13:17:44.963Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="UbOFgbXx3HT-d_5DtKub" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-11T18:09:51.187Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ixGyNQykIXWt8eHTAa8X" version="24.6.4" type="github">
   <diagram name="Page-1" id="nHCN08_IxAETz8GWsIQa">
     <mxGraphModel dx="1050" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,20 +22,24 @@
         <mxCell id="cGolmNBUZgRThdtmEXyv-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Studi Literatur&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="180" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cGolmNBUZgRThdtmEXyv-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cGolmNBUZgRThdtmEXyv-4" target="cGolmNBUZgRThdtmEXyv-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="cGolmNBUZgRThdtmEXyv-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cGolmNBUZgRThdtmEXyv-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="210" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="cGolmNBUZgRThdtmEXyv-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Perancangan Model&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="180" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cGolmNBUZgRThdtmEXyv-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cGolmNBUZgRThdtmEXyv-5" target="cGolmNBUZgRThdtmEXyv-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cGolmNBUZgRThdtmEXyv-5" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Perancangan Sistem&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="180" width="100" height="60" as="geometry" />
+        <mxCell id="cGolmNBUZgRThdtmEXyv-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="cGolmNBUZgRThdtmEXyv-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="210" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="cGolmNBUZgRThdtmEXyv-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Selesai&lt;/font&gt;" style="html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="670" y="180" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="osz_EoHbS59CH3w-PYMg-1" value="Implementasi Streamlit" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="540" y="180" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

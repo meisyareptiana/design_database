@@ -1,40 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2024-07-12T14:46:57.892Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="JmxLJwhFtRaNoZJencrK" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-13T03:55:44.804Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="uq2dTwhsDYXb9lg_G4lq" version="24.6.5" type="github">
   <diagram name="Page-1" id="_Wvr-6jJ51ZDnYDHS1sf">
-    <mxGraphModel dx="1167" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="m2EL1TP11kx0MKRRWevs-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m2EL1TP11kx0MKRRWevs-2" target="m2EL1TP11kx0MKRRWevs-4">
+        <mxCell id="m2EL1TP11kx0MKRRWevs-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="m2EL1TP11kx0MKRRWevs-2" target="m2EL1TP11kx0MKRRWevs-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m2EL1TP11kx0MKRRWevs-2" value="Mulai" style="html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="m2EL1TP11kx0MKRRWevs-2" value="Mulai" style="html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="110" y="50" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="m2EL1TP11kx0MKRRWevs-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m2EL1TP11kx0MKRRWevs-4" target="m2EL1TP11kx0MKRRWevs-14">
+        <mxCell id="m2EL1TP11kx0MKRRWevs-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="m2EL1TP11kx0MKRRWevs-4" target="m2EL1TP11kx0MKRRWevs-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m2EL1TP11kx0MKRRWevs-4" value="Load pretrained model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m2EL1TP11kx0MKRRWevs-4" value="Load pretrained model" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="150" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m2EL1TP11kx0MKRRWevs-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m2EL1TP11kx0MKRRWevs-8" target="m2EL1TP11kx0MKRRWevs-15">
+        <mxCell id="m2EL1TP11kx0MKRRWevs-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="m2EL1TP11kx0MKRRWevs-8" target="m2EL1TP11kx0MKRRWevs-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m2EL1TP11kx0MKRRWevs-8" value="Model mengidentifikasi kategori SDGs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m2EL1TP11kx0MKRRWevs-8" value="Model mengidentifikasi kategori SDGs" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="360" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m2EL1TP11kx0MKRRWevs-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m2EL1TP11kx0MKRRWevs-14" target="m2EL1TP11kx0MKRRWevs-8">
+        <mxCell id="m2EL1TP11kx0MKRRWevs-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="m2EL1TP11kx0MKRRWevs-14" target="m2EL1TP11kx0MKRRWevs-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m2EL1TP11kx0MKRRWevs-14" value="Input abstrak" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="m2EL1TP11kx0MKRRWevs-14" value="Input abstrak" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m2EL1TP11kx0MKRRWevs-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m2EL1TP11kx0MKRRWevs-15" target="m2EL1TP11kx0MKRRWevs-20">
+        <mxCell id="m2EL1TP11kx0MKRRWevs-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="m2EL1TP11kx0MKRRWevs-15" target="m2EL1TP11kx0MKRRWevs-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m2EL1TP11kx0MKRRWevs-15" value="Kategori SDGs&amp;nbsp;&lt;div&gt;yang sesuai&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="470" width="120" height="60" as="geometry" />
+        <mxCell id="m2EL1TP11kx0MKRRWevs-15" value="Hasil kategori&amp;nbsp;&lt;div&gt;SDGs yang sesuai&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="95" y="470" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m2EL1TP11kx0MKRRWevs-20" value="Selesai" style="html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="m2EL1TP11kx0MKRRWevs-20" value="Selesai" style="html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="110" y="580" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
